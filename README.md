@@ -1,8 +1,18 @@
 
-# My Markdown File
-
-<iframe src="./resources/index.html" width="100%" height="200" frameborder="0"></iframe>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Typing Effect</title>
+  <link rel="stylesheet" href=".\style.css">
+</head>
+<body>
+  <div class="container">
+    <p>Coding is <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+  </div>
+  <script src=".\script.js"></script>
+</body>
+</html>
 
 
 <h1 align="center">Hi 👋, I'm Tarun Singh</h1>
