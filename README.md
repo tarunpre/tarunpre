@@ -5,6 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=cursive&weight=400&size=20&pause=1000&color=000000&background=FFFFFF&center=true&width=800&separator=%3C&lines=Welcome+to+my+digital+workspace!%3CCode+is+the+tool;+Creativity+is+the+key.)](https://git.io/typing-svg)
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" height="150" width="200" align="right">
+
+
+
+
 - 🔭 I’m currently working on **Upcoming Panther Lake platforms for [Intel](https://www.intel.com/)**
 
 - 🌱 I’m currently learning **MLOps adoption for distributed systems**
