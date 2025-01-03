@@ -45,7 +45,7 @@ job: "Senior Software Engineer"
 education: ["Master's in Computer Science", "Bachelor's in Computer Engineering"]
 company: "Intel Corporation"
 fields_of_interests: ["Machine Learning", "Distributed Systems", "MLOps", "Cloud", "DevOps", "System Design"]
-currently_learning: ["Data Science", "Natural Language Processing"]
+currently_learning: ["Data Science", "MLops"]
 will_learn: ["Blockchain (backend)"]
 hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
 ```
