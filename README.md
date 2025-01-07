@@ -41,7 +41,7 @@
 name: "Tarun Preet Singh"
 located_in: "Washington, USA"
 from: "Punjab (India)"
-job: "Senior Software Engineer"
+job: "Senior DevOps/Software Engineer"
 education: ["Master's in Computer Science", "Bachelor's in Computer Engineering"]
 company: "Intel Corporation"
 fields_of_interests: ["Machine Learning", "Distributed Systems", "MLOps", "Cloud", "DevOps", "System Design"]
