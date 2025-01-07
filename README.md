@@ -57,6 +57,3 @@ hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunpre&theme=github-dark-dimmed&custom_title=Tarun's%20Activity%20Graph&hide_border=true)
 
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunpre&" alt="tarunpre" /></p>
