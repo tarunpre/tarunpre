@@ -40,13 +40,12 @@
 ```yaml
 name: "Tarun Preet Singh"
 located_in: "Washington, USA"
-from: "Punjab (India)"
 job: "Senior DevOps/Software Engineer"
-education: ["Master's in Computer Science", "Bachelor's in Computer Engineering"]
+education: ["Master's in Computer Science"]
 company: "Intel Corporation"
 fields_of_interests: ["Machine Learning", "Distributed Systems", "MLOps", "Cloud", "DevOps", "System Design"]
-currently_learning: ["Data Science", "MLops"]
-will_learn: ["Blockchain (backend)"]
+currently_learning: ["Agentic AI", "MLops"]
+will_learn: ["AI Models Integration"]
 hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
 ```
 
@@ -55,5 +54,4 @@ hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
 
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunpre&theme=github-dark-dimmed&custom_title=Tarun's%20Activity%20Graph&hide_border=true)
-
 
