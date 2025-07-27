@@ -54,3 +54,18 @@ hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
 
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunpre&theme=github-dark-dimmed&custom_title=Tarun's%20Activity%20Graph&hide_border=true)
+
+<p align="center">
+  📫 Connect with me:
+  <a href="https://www.linkedin.com/in/linktarun" target="_blank" style="display:inline-block; vertical-align:middle; margin-left:6px;">
+    <svg width="24" height="24" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg">
+      <rect width="34" height="34" rx="6" fill="#0A66C2">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <path d="M10.334 13.583H6.917v13.5h3.417v-13.5ZM8.625 5.917a1.979 1.979 0 1 0 0 3.959 1.979 1.979 0 0 0 0-3.959ZM27.083 21.75v5.333h-3.417v-4.959c0-1.248-.025-2.854-1.742-2.854-1.742 0-2.008 1.361-2.008 2.765v5.048h-3.416v-13.5h3.283v1.846h.05c.458-.867 1.575-1.783 3.242-1.783 3.467 0 4.108 2.283 4.108 5.25Z" fill="white">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
+      </path>
+    </svg>
+  </a>
+</p>
+
