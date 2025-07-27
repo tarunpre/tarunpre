@@ -1,0 +1,29 @@
+name: 🕒 Update README Last Updated Date
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Every day at 00:00 UTC
+  workflow_dispatch:  # Allow manual runs too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 🧠 Set current date
+        run: echo "DATE=$(date '+%B %d, %Y')" >> $GITHUB_ENV
+
+      - name: 🔁 Update README.md
+        run: |
+          sed -i "s|<!--LAST_UPDATED-->.*<!--/LAST_UPDATED-->|<!--LAST_UPDATED-->**$DATE**<!--/LAST_UPDATED-->|" README.md
+
+      - name: ✅ Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "📅 Update last updated date to $DATE" || echo "No changes to commit"
+          git push
