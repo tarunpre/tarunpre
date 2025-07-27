@@ -20,10 +20,12 @@ jobs:
         run: |
           sed -i "s|<!--LAST_UPDATED-->.*<!--/LAST_UPDATED-->|<!--LAST_UPDATED-->**$DATE**<!--/LAST_UPDATED-->|" README.md
 
-      - name: ✅ Commit changes
+      - name: ✅ Push changes with PAT
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "📅 Update last updated date to $DATE" || echo "No changes to commit"
           git push
+
