@@ -5,6 +5,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=cursive&weight=400&size=20&pause=1000&color=000000&background=FFFFFF&center=true&width=800&separator=%3C&lines=Welcome+to+my+digital+workspace!%3CCode+is+the+tool;+Creativity+is+the+key.)](https://git.io/typing-svg)
 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/linktarun" target="_blank" style="display:inline-block; vertical-align:middle; margin-left:5px;">
+    <svg width="24" height="24" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg">
+      <rect width="34" height="34" rx="6" fill="#0A66C2">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <path d="M10.334 13.583H6.917v13.5h3.417v-13.5ZM8.625 5.917a1.979 1.979 0 1 0 0 3.959 1.979 1.979 0 0 0 0-3.959ZM27.083 21.75v5.333h-3.417v-4.959c0-1.248-.025-2.854-1.742-2.854-1.742 0-2.008 1.361-2.008 2.765v5.048h-3.416v-13.5h3.283v1.846h.05c.458-.867 1.575-1.783 3.242-1.783 3.467 0 4.108 2.283 4.108 5.25Z" fill="white">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
+      </path>
+    </svg>
+  </a>
+</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" height="230" width="300" align="right">
@@ -21,9 +34,6 @@
 - 🤝 I’m looking for help with **Advance system designs & AI Integration**
 
 - ⚡ Fun fact **The First Computer Bug Was a Literal Bug**
-
-- 📫 Connect with me <a href="https://linkedin.com/in/linktarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linktarun" height="30" width="40" /></a>
-
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Bash](https://img.shields.io/badge/-bash-000?&logo=gnu-bash) ![Power Shell](https://img.shields.io/badge/-powershell-000?&logo=PowerShell)
@@ -48,10 +58,4 @@ currently_learning: ["Agentic AI", "MLops"]
 will_learn: ["AI Models Integration"]
 hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
 ```
-
-
-
-
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunpre&theme=github-dark-dimmed&custom_title=Tarun's%20Activity%20Graph&hide_border=true)
 
