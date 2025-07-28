@@ -7,7 +7,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" height="230" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" height="250" width="400" align="right">
 
 
 
@@ -46,7 +46,7 @@ company: "Intel Corporation"
 fields_of_interests: ["Machine Learning", "Distributed Systems", "MLOps", "Cloud", "DevOps", "System Design"]
 currently_learning: ["Agentic AI", "MLops"]
 will_learn: ["AI Models Integration"]
-hobbies: ["Pet Volunteer", "Competitive Gaming", "3D Printing", "Scam-Baiting" ]
+hobbies: ["Pet Volunteer", "Competitive Gaming", "Scam-Baiting" ]
 ```
 
 
