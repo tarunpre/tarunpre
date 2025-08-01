@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Projects regarding ML & NLP**
 
-- 🤝 I’m looking for help with **Advance system designs & AI Integration**
+- 🤝 I’m looking for help with **Advance system designs & Agentic AI Integration**
 
 - ⚡ Fun fact **The First Computer Bug Was a Literal Bug**
 
