@@ -1,7 +1,7 @@
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="transform: rotate(180deg);" />
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="display:block; transform: rotate(180deg); -webkit-transform: rotate(180deg);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tarun Singh</h1>
