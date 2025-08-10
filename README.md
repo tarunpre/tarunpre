@@ -53,9 +53,6 @@ hobbies: ["Pet Volunteer", "Competitive Gaming", "Scam-Baiting" ]
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunpre&theme=github-dark-dimmed&custom_title=Tarun's%20Activity%20Graph&hide_border=true)
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 
 📅 Last updated on: <!--LAST_UPDATED-->**August 10, 2025**<!--/LAST_UPDATED-->
