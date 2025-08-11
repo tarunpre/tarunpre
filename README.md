@@ -20,10 +20,11 @@
 
 - ⚡ Fun fact **The First Computer Bug Was a Literal Bug**
 
-- 📫 Connect with me <a href="https://linkedin.com/in/linktarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linktarun" height="30" width="40" /></a>
+- 📫 Connect with me [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/linktarun)
 
 
 #### Languages
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C#](https://img.shields.io/badge/-C%23-000?&logo=C) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Bash](https://img.shields.io/badge/-bash-000?&logo=gnu-bash) ![Power Shell](https://img.shields.io/badge/-powershell-000?&logo=PowerShell)
 
 #### Technologies
@@ -32,6 +33,9 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins) ![Github Actions](https://img.shields.io/badge/-Github_Actions-000?&logo=githubactions) ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger) ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)  ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql) ![Splunk](https://img.shields.io/badge/-Splunk-000?&logo=Splunk) ![elasticsearch](https://img.shields.io/badge/-elasticsearch-000?&logo=elasticsearch)   
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka)
+
+#### LLM
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff) ![Claude](https://img.shields.io/badge/Claude-000?logo=claude&logoColor=fff) ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?logo=openai&logoColor=fff) ![LangChain](https://img.shields.io/badge/LangChain-000?logo=chainlink&logoColor=fff)
 
 
 
