@@ -18,8 +18,6 @@
 
 - 🤝 I’m looking for help with **Advance system designs & Agentic AI Integration**
 
-- ⚡ Fun fact **The First Computer Bug Was a Literal Bug**
-
 - 📫 Connect with me [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/linktarun)
 
 
