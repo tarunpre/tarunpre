@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Projects regarding ML & NLP**
 
-- 🤝 I’m looking for help with **Advance system designs & Agentic AI Integration**
+- 🤝 I’m looking for help with **Advance system design & Agentic AI Integration**
 
 - 📫 Connect with me [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/linktarun)
 
